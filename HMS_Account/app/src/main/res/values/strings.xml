@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="status_ad_loading">Ad loading state: being loaded.</string>
+    <string name="status_load_ad_success">Ad loading state: loaded successfully.</string>
+    <string name="status_load_ad_finish">Ad loading state: loaded finish.</string>
+    <string name="status_load_ad_fail">Ad loading state: failed to be loaded. Error code: </string>
+    <string name="status_play_start">Video playback state: starting to be played.</string>
+    <string name="status_playing">Video playback state: being played.</string>
+    <string name="status_play_end">Video playback state: playback completed.</string>
+    <string name="ad_is_closed">Ad is closed.</string>
+
+    <!--Slash ads-->
+    <string name="ad_id_splash">testd7c5cewoj6</string>
+    <string name="ad_id_splash_landscape">testq6zq98hecj</string>
+    <string name="owner">HUAWEI Developer</string>
+    <string name="media_name">HUAWEI Ads</string>
+    <string name="copyright_info">Copyright 2020. Huawei Technologies Co., Ltd</string>
+    <string name="status_ad_dismissed">Splash Ad is dismissed.</string>
+
+    <!-- Banner ad -->
+    <string name="banner_ad_id">testw6vs28auh3</string>
+    <string name="size_320_50">SIZE_320*50</string>
+
+    <!--Interstitial ad-->
+    <string name="interstitial_title_text">This is interstitial ad sample.</string>
+    <string name="image_ad_id">teste9ih9j0rc3</string>
+    <string name="video_ad_id">testb4znbuh3n2</string>
+    <string name="load_button">Load Ad</string>
+    <string name="interstitial_display_picture">Image</string>
+    <string name="interstitial_display_video">Video</string>
+
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="top_headlines">TopHeadlines</string>
+    <string name="not_found">404 not found</string>
+    <string name="server_down">500 server broken</string>
+    <string name="unknown_error">unknown error</string>
+    <string name="no_result">No Result</string>
+    <string name="try_again">Please Try Again!\n</string>
+    <string name="search_news">Search Latest News...</string>
+    <string name="more_char">Type more than two letters!</string>
+
+</resources>
